@@ -1,0 +1,5 @@
+argparse
+openai
+pillow
+langchain
+mimetypes
